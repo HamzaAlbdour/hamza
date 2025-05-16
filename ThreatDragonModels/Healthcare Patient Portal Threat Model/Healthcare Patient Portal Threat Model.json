@@ -1,0 +1,27 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Healthcare Patient Portal Threat Model",
+    "owner": "hamza albdour",
+    "description": "A threat model for a patient portal web app used to access medical records, book appointments, and communicate with doctors.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Patient Portal Diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "This diagram shows the data flow between the patient, the web application, the medical database, and the appointment booking process."
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "hamza ",
+    "threatTop": 0
+  }
+}
